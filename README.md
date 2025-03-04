@@ -1,2 +1,2 @@
-# Group-3
+# Autonomous Seeding Quadcopter
 Team 3
