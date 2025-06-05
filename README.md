@@ -1,7 +1,7 @@
 # Autonomous Seeding Quadcopter
 This repository contains all the information of the developement of an autonomous seeding quadcopter. Also it contains all things needed to fully replicate the project
 
-![image](https://github.com/user-attachments/assets/b850b801-3b0d-4c48-80b1-097e0eb728e3)
+![image](https://github.com/user-attachments/assets/1603d55d-33fd-481a-9e2f-1d435b07ec4d)
 
 Modern agriculture faces significant challenges, including the increasing demand for food, labor shortages, and the need to improve resource efficiency. Traditional planting methods, whether manual or using heavy machinery, can be costly and inefficient. Both labor and first investment machinery  can be really expensive in comparison to an autonomous drone, which is smaller, cheaper to buy and doesn’t need an operator.
 
