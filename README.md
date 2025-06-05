@@ -7,5 +7,6 @@ Modern agriculture faces significant challenges, including the increasing demand
 
 In recent years, automation and technology have begun transforming the agricultural sector. Drones have proven useful for crop monitoring, spraying, and data collection. However, automated drone-based seeding is still in its early stages of development, presenting an opportunity to enhance precision agriculture and improve farming efficiency. This early developing phase is the reason that made us invest in this project.
 
+To fully replicate the project, you have to follow the nexrt steps:
 
 _**Pau Porcuna, Guillem Català, Albert Huéscar & Álvaro Hernández**_
